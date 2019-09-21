@@ -59,6 +59,7 @@ int main()
 		printf("%s\n", pWatchInfo[i]);
 	}
 
+	printf("test test test test ");
    return 0;
 }
 

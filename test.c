@@ -60,6 +60,8 @@ int main()
 	}
 
 	printf("test test test test ");
+
+	printf("test1 test1");
    return 0;
 }
 
